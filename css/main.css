@@ -532,7 +532,7 @@ body {
   color: var(--blue-color);
 }
 
-.contact__list > .contact__item:not(:last-child) {
+.contact > .contact__item:not(:last-child) {
   margin-right: 50px;
 }
 
@@ -567,7 +567,7 @@ body {
 }
 
 /* Контакты */
-.contact__list {
+.contact {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

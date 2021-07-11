@@ -48,7 +48,7 @@
     }
   }
   
-  .contact__list > .contact__item {
+  .contact > .contact__item {
     &:not(:last-child) {
       margin-right: 50px;
     }
@@ -87,7 +87,7 @@
   
   /* Контакты */
   
-  .contact__list {
+  .contact {
     display: flex;
     align-items: center;
     margin-left: auto;
